@@ -15,7 +15,7 @@ public class TestingGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hello git, I m coming and where r u");
 		System.out.println("hi how r u" );
-		
+		System.out.println("hi how r u" );
 	}
 
 }
